@@ -1,0 +1,22 @@
+Home Rental System is a software application that facilitates the renting process between landlords and tenants.
+**Project Name**: Home Rental System
+
+Home Rental System is a comprehensive online platform aimed at connecting landlords with tenants for property rental purposes. The system streamlines the rental process, providing a user-friendly interface for both landlords and tenants.
+
+**Key Features**:
+1. **User Registration and Login**: Secure registration and login functionalities for both landlords and tenants.
+2. **Property Listings**: Landlords can list their properties, including details like location, amenities, rental price, and images.
+3. **Search and Filters**: Tenants can search for available properties using filters such as location, price range, property type, etc.
+4. **Booking and Scheduling**: Tenants can schedule property viewings and book rentals directly through the platform.
+
+**Technology Stack**:
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Framework**: Bootstrap
+- **Backend**: PHP
+- **Database**: MySQL
+
+**Additional Details**:
+- The system will implement responsive design principles for compatibility across various devices (desktop, mobile, tablet).
+- Prioritizing data security and privacy through encryption methods for sensitive information.
+- Implementing robust error handling and validation mechanisms.
+- Regular maintenance and updates to ensure scalability and performance optimization.
